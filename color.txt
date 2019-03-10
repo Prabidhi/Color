@@ -8,3 +8,4 @@ Purple
 White
 Indigo
 Added in paint branch
+ Added piant and color together
